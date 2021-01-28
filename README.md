@@ -1,4 +1,4 @@
-# MNIST-Digit-Classfication
+# MNIST-Digit-Classification
 A basic Neural Network for handwritten digit classification based on MNIST and extended-MNIST 2 digit dataset.
 
 The MNIST Dataset consists of 70,000 handwritten digit images of size 28x28. There are 10 classes present. 0-9 digit classes.
