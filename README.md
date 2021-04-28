@@ -3,7 +3,8 @@
 A compilation of basic Neural Networks based exercises/mini-projects 
 1. MNIST & EMNIST Digit Classification (ANN model) - Basic handwritten digit classification based on MNIST and extended-MNIST 2 digit dataset.
 2. Fashion-MNIST Clothes Classification (CNN Model) - MNIST like dataset consisting of types of clothes images.
-3. Dogs-vs-Cats Binary Classifier (CNN Model) (VGG16) - 
+3. Dogs-vs-Cats Binary Classifier (CNN Model) (VGG16) 
+4. Coronary Artery Disease Data - Risk Prediction
 
 Details:
 The MNIST Dataset consists of 70,000 handwritten digit images of size 28x28. There are 10 classes present. 0-9 digit classes.
